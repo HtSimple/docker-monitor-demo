@@ -1,0 +1,16 @@
+# Python相关
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+env/
+.venv/
+
+# 监控数据（无需提交）
+monitor/data/
+docker-train-manager/metrics_export/
+
+# 其他
+.DS_Store
+*.log
